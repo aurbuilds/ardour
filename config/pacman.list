@@ -1,12 +1,18 @@
-# Carla bridges
-wine-staging
-mingw-w64-binutils
-mingw-w64-crt
-mingw-w64-gcc
-mingw-w64-headers
-mingw-w64-pkg-config
-mingw-w64-winpthreads
-
-# sfizz
-cmake
-libsndfile
+alsa-lib
+aubio
+boost
+cppunit
+doxygen
+graphviz
+gtkmm
+itstool
+libarchive
+liblo
+liblrdf
+lilv
+lv2
+python
+python2
+rubberband
+suil
+taglib
